@@ -12,3 +12,4 @@ Additionally, ensemble learning will be employed using the Gradient Boosting Reg
 The project will be implemented in Python, utilizing popular machine learning libraries such as Scikit-Learn and Pandas. Data preprocessing, feature engineering, and model evaluation will be key steps in the workflow. The dataset used for training and testing the models will consist of historical fire data with associated satellite image features.
 
 Data Source: https://archive.ics.uci.edu/ml/datasets/forest+fires
+
